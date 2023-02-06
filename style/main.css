@@ -9253,6 +9253,10 @@ footer p {
   background-color: #f3f3f3;
 }
 
+.navbar-collapse .nav-link .active {
+  background-color: #ffb26b;
+}
+
 .navbar-store {
   padding-top: 15px;
 }
@@ -9290,6 +9294,7 @@ footer p {
 .page-home h5 {
   font-weight: 300;
   margin-top: 15px;
+  margin-bottom: 15px;
 }
 .page-home .store-trend-categories {
   margin-top: 50px;
@@ -9299,7 +9304,7 @@ footer p {
 }
 
 .component-categories {
-  background: #f4f4f4;
+  background: #ffb26b;
   border-radius: 8px;
   padding: 30px 30px 10px 30px;
   margin-bottom: 20px;
@@ -9313,7 +9318,7 @@ footer p {
   font-size: 18px;
   text-align: center;
   font-weight: normal;
-  color: #0c0d36;
+  color: #ffffff;
   margin-top: 12px;
 }
 
@@ -9337,7 +9342,7 @@ footer p {
 .components-products .product-img {
   height: 100%;
   width: 100%;
-  background-color: #ddd;
+  background-color: #ffb26b;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -9346,7 +9351,7 @@ footer p {
 .components-products .product-text {
   font-weight: normal;
   font-size: 18px;
-  color: #0c0d36;
+  color: #ff7b54;
   margin-top: 12px;
 }
 .components-products .product-price {
