@@ -11,6 +11,12 @@
       }
     }
   }
+
+  .active {
+    a {
+      color: #ffb26b !important;
+    }
+  }
   .profile-picture {
     max-height: 45px;
   }
